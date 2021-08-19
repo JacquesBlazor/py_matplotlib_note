@@ -1,4 +1,4 @@
-# py_matplotlib_note
+# 如何修正 python 中 matplotlib 套件顯示中文的問題
 
 請參考以下快速可行的方案:
 
