@@ -6,7 +6,7 @@
 
 1) 打開命令提示字元 Command Prompt, 輸入下列指令:
 
-   python -c "print(__import__('matplotlib').matplotlib_fname())"
+   python -c "print(\_\_import\_\_('matplotlib').matplotlib_fname())"
 
    或是在命令提示字元輸入 python (或 python3) 按下 Enter，然後在 >>> 的提示字元
    後，分別輸入以下兩行指令：
